@@ -11,7 +11,7 @@ get_header();
             <div class="row">
                 <div class="col-xs-12 col-md-9">
                     <div class="inner-title-wrap">
-                        <div class="inner-title">傳媒專區</div>
+                        <div class="inner-title">傳媒專區aa</div>
                         <div class="breadcrumb">
                             <?php
                             $paged = ( get_query_var('paged') ) ? get_query_var('paged') : 1;
